@@ -1,21 +1,60 @@
-<h1 align="center">Hi 👋, I'm Jamaludin Yasykur</h1>
-<h3 align="center">Indonesian fullstack developer. Passionate on web design, but love interest on Back-end Development.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inijamlud&label=Profile%20Views&color=0e75b6&style=flat" alt="inijamlud" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inijamlud&label=Profile%20views&color=0e75b6&style=flat" alt="inijamlud" /> </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inijamlud)](https://github.com/anuraghazra/github-readme-stats)
+<h1> Hi, I'm Jamaludin Yasykur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> </h1>
 
-- 🌱 I’m currently learning **Laravel, React, NextJs, TailwindCss**
+<!-- <h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.netlify.app/" target="_blank">portfolio</a>!</i></h3> -->
 
-- 👯 I’m looking opportunity for **Front-end/Back-end Developer**
+#### Software Engineering Undergraduate Student of Politeknik Enjinering Indorama.
+Passionate with Design and Programming. I’ve been working in Design field since 2015, with Web and Mobile Programming since 2018. Able to work in a team or individual, love to learn new things and attention to detail.
 
-- 📝 I regularly write articles on [https://medium.com/@inijamlud](https://medium.com/@inijamlud)
+# Github Statistic
 
-- 📫 How to reach me **inimal.dev@gmail.com**
+<div style="display:flex;">
+  <div>
+    <a href="https://github.com/inijamlud">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inijamlud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/inijamlud">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inijamlud&layout=compact&langs_count=6&theme=algolia"/>
+    </a>
+  </div>
+ </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# Tech Stack
 
+### 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> 
+
+### 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Graduate</th>
+  </tr>
+  <tr>
+    <td>Teknik Komputer & Jaringan</td>
+    <td>SMK NEGERI 1 PURWAKARTA</td>
+    <td>2015 - 2018</td>
+  </tr>
+  <tr>
+    <td>Software Engineering </td>
+    <td>Politeknik Enjinering Indorama</td>
+    <td>2018 - 2022 (expected)</td>
+  </tr>
+</table>
+ 
+ 
+# Reach me on
+
+<a href="https://www.linkedin.com/in/jamaludin-yasykur-0a8876193/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/inijamlud/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+                                                                    
+                                                                    
