@@ -2,8 +2,7 @@
 <h3 align="center">Indonesian fullstack developer. Passionate on web design, but love interest on Back-end Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inijamlud&label=Profile%20views&color=0e75b6&style=flat" alt="inijamlud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inijamlud" alt="inijamlud" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **Laravel, React, NextJs, TailwindCss**
 
