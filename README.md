@@ -2,9 +2,9 @@
 
 <a href="https://github.com/inijamlud" target="_blank"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inijamlud&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
 
-- 👨‍💻 I'm a Back-End Engineer and Android-dev
-- 👨‍🎓 I'm currently an Software Engineering undergraduate student at Politeknik Enjinering Indorama
-- 📚 I'm currently learning Web Fullstack & Passionate on UI Design
+- 👨‍💻 Web Fullstack Developer Engineer x UI Designer
+- 👨‍🎓 Software Engineering undergraduate student at Politeknik Enjinering Indorama
+- 📚 Currently learning Fullstack & Multi-Platform Framework (Flutter & React Native)
 
 ### Languages :
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inijamlud&layout=compact&theme=merko"/>
