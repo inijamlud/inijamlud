@@ -2,7 +2,7 @@
 
 <a href="https://github.com/inijamlud" target="_blank"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inijamlud&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
 
-- 👨‍💻 Web Fullstack Developer Engineer x UI Designer
+-  Web Fullstack Developer Engineer x UI Designer
 - 👨‍🎓 Software Engineering undergraduate student at Politeknik Enjinering Indorama
 - 📚 Currently learning Fullstack & Multi-Platform Framework (Flutter & React Native)
 
