@@ -1,4 +1,4 @@
-## 👨‍💻 Heiyyo, I'm [Jamaludin Yasykur!](https://www.linkedin.com/in/jamaludin-yasykur-0a8876193/)
+##  Heiyyo, I'm [Jamaludin Yasykur!](https://www.linkedin.com/in/jamaludin-yasykur-0a8876193/)
 
 <a href="https://github.com/inijamlud" target="_blank"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inijamlud&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
 
