@@ -6,7 +6,7 @@
 
 - 👨‍💻 Web Fullstack Developer Engineer x UI Designer
 - 👨‍🎓 Software Engineering undergraduate student at Politeknik Enjinering Indorama
-- 📚 Currently learning Fullstack & Multi-Platform Framework (Flutter & React Native)
+- 📚 Currently learning Javascript Library & Multi-Platform Framework (Nextjs & Flutter)
 
 ### Languages :
 <a href="https://github.com/inijamlud" target="_blank"> 
